@@ -8,4 +8,4 @@ Since 2012, CWUR has been publishing the only academic ranking of global univers
 
 Official website-  https://cwur.org/
 
-In this repository, I tried analysing the different factors that contributed to a university being given that particular rank.Visualizations for easy and better analysis are also added.
+In this repository, I tried analysing the different factors that contributed to a university being given that particular rank. Visualizations for easy and better analysis are also added.
